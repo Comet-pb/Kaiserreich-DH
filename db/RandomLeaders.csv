@@ -96,7 +96,7 @@ FRA;Carentan
 FRA;Bernouville
 FRA;Gurande
 FRA;Marsillac
-FRA;De CrËvecoeur
+FRA;De Cr√®vecoeur
 FRA;Marchand
 FRA;d'Artois
 FRA;de Valois
@@ -211,15 +211,15 @@ SPA;Neuchatel
 SPA;Ypres
 SPA;Vercelles
 SPA;Marenga
-SPA;MarquÈs de Viana 
+SPA;Marqu√©s de Viana 
 SPA;Sidonia 
 SPA;Mendoza 
 SPA;Pigafetta 
-SPA;MarquÈs de Leiva 
+SPA;Marqu√©s de Leiva 
 SPA;del Marcenado 
 SPA;Conde de Aranda 
 SPA;Cagigal de Vega 
-SPA;MÈndez 
+SPA;M√©ndez 
 SPA;Duque de Badajoz 
 SPA;Duque de Feria 
 SPA;Montecuccoli 
@@ -227,35 +227,35 @@ SPA;Elcano
 SPA;Eslava 
 SPA;Espinosa 
 SPA;de Velasco 
-SPA;Sanl˙car 
+SPA;Sanl√∫car 
 SPA;de Castro 
 SPA;Vizcarrondo 
 SPA;Juan M. Cagigal 
 SPA;Carasola 
 SPA;Hervas 
 SPA;de Cevallos 
-SPA;MatÌas G·lvez 
-SPA;Domez·n 
+SPA;Mat√≠as G√°lvez 
+SPA;Domez√°n 
 SPA;Fierro 
 SPA;Infante 
 SPA;del Toro 
 SPA;Villadarias 
 SPA;O'Reilly 
-SPA;Fern·n-N˙Òez 
+SPA;Fern√°n-N√∫√±ez 
 SPA;Urrutia  
 SPA;Herrera 
 SPA;Villareal 
 SPA;Alvarez de Castro 
 SPA;Santa Cruz 
 SPA;Valdivia 
-SPA;Ponce de LeÛn 
+SPA;Ponce de Le√≥n 
 SPA;Casanovas 
-SPA;Y·Òez 
+SPA;Y√°√±ez 
 SPA;Del Campo 
 SPA;Zamora 
 SPA;Moreno 
 SPA;La Romana 
-SPA;Ch·vez 
+SPA;Ch√°vez 
 SPA;De la Cosa 
 SPA;Barranquilla 
 SPA;Del Basto 
@@ -263,16 +263,16 @@ SPA;Redonda
 SPA;M. de Caracena 
 SPA;Batista 
 SPA;Palafox 
-SPA;Ib·Òez 
+SPA;Ib√°√±ez 
 SPA;De Cartagena 
-SPA;San MartÌn 
+SPA;San Mart√≠n 
 SPA;San Luis 
 SPA;Quesada 
 SPA;Mezquita 
 SPA;Arias 
 SPA;Grijalva 
 SPA;Daoiz 
-SPA;MondragÛn 
+SPA;Mondrag√≥n 
 SPA;Medrano 
 SPA;Ogendo 
 SPA;Moncador 
@@ -283,7 +283,7 @@ SPA;Sanchez
 SPA;De Veuigy 
 SPA;Pignerol 
 SPA;Santa Maria 
-SPA;DÌaz 
+SPA;D√≠az 
 SPA;Gravina 
 SPA;Gonzalva
 SPA;Atanes 
@@ -298,7 +298,7 @@ SPA;Nivelles
 SPA;Albuquerque 
 SPA;Fontaine 
 SPA;Velarde 
-SPA;Perib·Òez 
+SPA;Perib√°√±ez 
 SPA;Popoli 
 SPA;D'Asefeld 
 SPA;Vicentillo 
@@ -423,14 +423,14 @@ TUR;Bahman
 TUR;Mustafa
 TUR;Elias
 TUR;Zonguldak
-TUR;÷skdar
+TUR;√ñskdar
 TUR;Izmit
 TUR;Edirne
 TUR;Burgas
 TUR;Bandirma
 TUR;Kirrikale
 TUR;Eskisehir
-TUR;Kˆtahya
+TUR;K√∂tahya
 TUR;Konya
 TUR;Isparta
 TUR;Demis
@@ -456,7 +456,7 @@ TUR;Van
 TUR;Erzincan
 TUR;Inebolu
 TUR;Sinope
-TUR;Karabˆk
+TUR;Karab√∂k
 TUR;Sakarya
 TUR;Brus
 TUR;Kayseri
@@ -487,7 +487,7 @@ TUR;Selim
 TUR;Djamil
 TUR;Eren
 TUR;Khalid
-TUR;Bˆlent
+TUR;B√∂lent
 TUR;Rahman
 TUR;Khader
 TUR;Kemal
@@ -690,7 +690,7 @@ SOV;Iwanovo
 SOV;Tcherbatov
 SOV;Sangar
 SOV;Bulba
-SOV;Bodaãbo
+SOV;Boda¬ãbo
 SOV;Kotchev
 SOV;Bereznik
 SOV;Ustinov
@@ -813,8 +813,8 @@ AUS;Lienz
 AUS;Salzburg
 AUS;Bad Ischl
 AUS;Leuthen
-AUS;Bîhmen
-AUS;Mîdling
+AUS;B¬îhmen
+AUS;M¬îdling
 AUS;Stuhleck
 AUS;Amstetten
 AUS;Waidhofen
@@ -826,26 +826,26 @@ AUS;Hallein
 AUS;Kirchberg
 AUS;Karwendel
 AUS;Mariazell
-AUS;Sankt P‰lten
+AUS;Sankt P√§lten
 AUS;Linz
 AUS;Wels
 AUS;Ried
 AUS;Pfilstein
 AUS;Krems
 AUS;Stockerau
-AUS;Brˆnn
+AUS;Br√∂nn
 AUS;Karlsbad
 AUS;Waldenburg
 AUS;Karlstadt
 AUS;Raba
 AUS;Zistersdorf
-AUS;Kˆnnsteig
+AUS;K√∂nnsteig
 AUS;Mayer
 AUS;Traun
 AUS;Melk
 AUS;Kapfenberg
 AUS;Graz
-AUS;Olmˆtz
+AUS;Olm√∂tz
 AUS;Klagenfurt
 AUS;Spitach
 AUS;Wachau
@@ -861,7 +861,7 @@ AUS;Braunau
 AUS;Neusiedl
 AUS;Eisen
 AUS;Scober
-AUS;Schr¸der
+AUS;Schr√ºder
 AUS;Salzkammer
 AUS;Bornow
 AUS;Ramsberg
@@ -871,12 +871,12 @@ AUS;Presburg
 AUS;Leoben
 AUS;Sachsenburg
 AUS;Monfalcone
-AUS;G¸rlitz
+AUS;G√ºrlitz
 AUS;Herman
 AUS;Klausenburg
 AUS;Von Stark
 AUS;Alt Wardein
-AUS;Jˆgersdorf
+AUS;J√∂gersdorf
 AUS;Felsheim
 AUS;Mack
 AUS;Johan
@@ -884,7 +884,7 @@ AUS;Max
 AUS;Allenstein
 AUS;Buda
 AUS;Villach
-AUS;Kitzb¸hl
+AUS;Kitzb√ºhl
 AUS;Zell
 AUS;Karenski
 AUS;Landeck
@@ -898,111 +898,110 @@ AUS;Kolin
 AUS;Zatec
 AUS;Horty
 AUS;Madek
-AUS;Gy¸r
+AUS;Gy√ºr
 AUS;Gottwald
 AUS;Regensberg
 AUS;Babenberg
 AUS;Zahringen
-ITA;Loredano
-ITA;Grimani
-ITA;Gritti
-ITA;Lando
-ITA;Priuli
-ITA;Trevisano
-ITA;Ruzzini
-ITA;Foscarini
-ITA;Memmo
-ITA;Bembo
-ITA;Contarini
-ITA;Cornaro
-ITA;Erizzo
-ITA;Molini
-ITA;Pesaro
-ITA;Valieri
-ITA;Flangini
-ITA;Zustiniani
-ITA;Magno
-ITA;Dolfin
+ITA;Alberti
+ITA;Abbati
+ITA;Amico
+ITA;Bellati
+ITA;Borghese
+ITA;Cannizzaro
+ITA;Colonna
+ITA;De Magistris
+ITA;Doria
 ITA;Emo
-ITA;Toscani
-ITA;Pezzini
-ITA;De Blazio
-ITA;Mantova
-ITA;Brescia
-ITA;Garda
-ITA;Mestre
-ITA;Trieste
-ITA;Zara
-ITA;Raguse
-ITA;Fiume
-ITA;Anconna
-ITA;Vittorio
-ITA;Cassandro
-ITA;Corfini
-ITA;Giustani
-ITA;Ermelli
-ITA;Barilla
-ITA;San Paulo
-ITA;Alvise
-ITA;Bassano
-ITA;Schio
-ITA;Casanova
-ITA;Pordenone
-ITA;Ferrara
-ITA;Treviso
-ITA;Rovigo
-ITA;Adria
-ITA;Commachio
-ITA;Chiogga
-ITA;Modigliano
-ITA;Rovereto
-ITA;Bardolino
-ITA;Friuli
-ITA;Belfuno
-ITA;Di Castrozza
-ITA;Tolmezzo
-ITA;Pontebba
-ITA;Feltre
-ITA;Trento
-ITA;Udine
-ITA;Piave
-ITA;Gorizia
-ITA;Ponte Vechio
-ITA;Lido
-ITA;Vicenza
-ITA;Grado
-ITA;Isonzo
-ITA;Lignano
-ITA;Belluno
-ITA;Pramaggiore
-ITA;Abano
-ITA;Ferme
-ITA;Livenza
-ITA;Tagliamento
-ITA;Meduna
-ITA;Legnago
-ITA;Tartaro
-ITA;Brenta
-ITA;Panaro
-ITA;Agno
-ITA;Mincio
-ITA;Castiglione
-ITA;Latisana
-ITA;Lissa
-ITA;Corleone
-ITA;Iseo
-ITA;Gardone
-ITA;Giudica
-ITA;Idro
-ITA;Oglio
-ITA;Sugaina
-ITA;Serio
-ITA;Cremona
-ITA;Argenta
-ITA;Cento
-ITA;Padova
-ITA;Monfalcone
-ITA;Verona
+ITA;Eryl
+ITA;Evangelista
+ITA;Fabbricotti
+ITA;Filippi
+ITA;Galanti
+ITA;Giannuzzi
+ITA;Giudici
+ITA;Gori
+ITA;Lancellotti
+ITA;Lanza
+ITA;Leopardi
+ITA;Lucifero
+ITA;Maggi
+ITA;Mancini
+ITA;Mannucci
+ITA;Nardi
+ITA;Nobili
+ITA;Orengo
+ITA;Ottone
+ITA;Pace
+ITA;Pagano
+ITA;Palazzi
+ITA;Pellegrini
+ITA;Quirico
+ITA;Raffaelli
+ITA;Reggio
+ITA;Sforza
+ITA;Riccardi
+ITA;Ricci
+ITA;Roncaglia
+ITA;della Rovere
+ITA;Sabatini
+ITA;San Martino
+ITA;de Sanctis
+ITA;Serafini
+ITA;Treves
+ITA;Turano
+ITA;Ubaldini
+ITA;Varano
+ITA;Visconti
+ITA;Zuccheri
+RSI;Rossi
+RSI;Bianchi
+RSI;Ricci
+RSI;Lombardi
+RSI;Angelis
+RSI;Martinelli
+RSI;Fabbri
+RSI;Farina
+RSI;D'Amico
+RSI;Pescara
+RSI;Torre
+RSI;Rossetti
+RSI;Allori
+RSI;Antonelli
+RSI;Ballardini
+RSI;Barbieri
+RSI;Baruzzi
+RSI;Canepa
+RSI;Campana
+RSI;Caselli
+RSI;Costa
+RSI;Di Pietro
+RSI;Ferrarini
+RSI;Fumagalli
+RSI;Gherardi
+RSI;Giannetti
+RSI;Lepri
+RSI;Locatelli
+RSI;Marchetti
+RSI;Minetti
+RSI;Mion
+RSI;Nedo
+RSI;Nicolini
+RSI;Norata
+RSI;Orsi
+RSI;Pancaldi
+RSI;Rodano
+RSI;Romelli
+RSI;Sarti
+RSI;Scaramuzza
+RSI;Tinti
+RSI;Traversa
+RSI;Turrini
+RSI;Valentinotti
+RSI;Vinciguerra
+RSI;Vitale
+RSI;Zerba
+RSI;Zoppelli
 SWE;Adlercreutz
 SWE;Mendler
 SWE;af Trolle
@@ -1019,24 +1018,24 @@ SWE;Wellingk
 SWE;Deventer
 SWE;Berntsson
 SWE;Carlsheim
-SWE;Ehrensv‰rd
+SWE;Ehrensv√§rd
 SWE;Eka
 SWE;Flemming
 SWE;Nordmark
 SWE;Grip
 SWE;Gustavsson
 SWE;Gyllenheim
-SWE;Sˆderberg
+SWE;S√∂derberg
 SWE;Meyer
-SWE;Hj‰rne
+SWE;Hj√§rne
 SWE;Horn
-SWE;HÂrd
-SWE;J‰gerhorn
+SWE;H√•rd
+SWE;J√§gerhorn
 SWE;Reventlov
 SWE;Bengtsson
 SWE;Konradsson
 SWE;Liljencrantz
-SWE;Lindschˆld
+SWE;Lindsch√∂ld
 SWE;Mannerheim
 SWE;Lindbom
 SWE;Oskarsson
@@ -1064,13 +1063,13 @@ SWE;Belfrage
 SWE;Antonsson
 SWE;Nilsson
 SWE;von Stedingk
-SWE;≈kerhielm
+SWE;√Ökerhielm
 GER;Haber
 GER;Zepernik
 GER;Frohau
 GER;Pankow
-GER;Sh‰neiche
-GER;K¸penick
+GER;Sh√§neiche
+GER;K√ºpenick
 GER;Spree
 GER;Zeuthen
 GER;Blankenfelde
@@ -1081,7 +1080,7 @@ GER;Falkensee
 GER;Henningsdorf
 GER;Bernau
 GER;Neuenhagen
-GER;F‰rstenwalde
+GER;F√§rstenwalde
 GER;Cottbus
 GER;Eberswalde
 GER;Anklam
@@ -1093,14 +1092,14 @@ GER;Stettin
 GER;Wittenberg
 GER;Ludwiglust
 GER;Wismar
-GER;Mˆritz
+GER;M√∂ritz
 GER;Allenstein
 GER;Finkenstein
 GER;Elbing
 GER;Rostock
 GER;Kolberg
-GER;Kˆslin
-GER;Schneidemˆhl
+GER;K√∂slin
+GER;Schneidem√∂hl
 GER;Mauer
 GER;Osterode
 GER;Spirding
@@ -1108,8 +1107,8 @@ GER;Insterburg
 GER;Gumbinen
 GER;Pillau
 GER;Braunsberg
-GER;G¸strow
-GER;Gr¸nberg
+GER;G√ºstrow
+GER;Gr√ºnberg
 GER;Glogau
 GER;Forst
 GER;Augustow
@@ -1117,8 +1116,8 @@ GER;Kustrin
 GER;Landsberg
 GER;Tegel
 GER;Kreuzberg
-GER;Kl¸ck
-GER;B¸low
+GER;Kl√ºck
+GER;B√ºlow
 GER;Francois
 GER;Hutier
 GER;Mackensen
@@ -1136,19 +1135,19 @@ GER;Hastenberg
 GER;Siegfried
 GER;Wollin
 GER;Sassnitz
-GER;Warnemˆnde
+GER;Warnem√∂nde
 GER;Elde
 GER;Brandenburg
 GER;Pommern
 GER;Preussen
 GER;Gnesien
-GER;L¸ckner
+GER;L√ºckner
 GER;Hochdorf
 GER;Berg
 GER;Prittwitz
 GER;Scharnhorst
 GER;Gneisenau
-GER;Bl¸cher
+GER;Bl√ºcher
 GER;Markgraf
 GER;Luitpold
 GER;Goeben
@@ -1156,14 +1155,14 @@ GER;Moltke
 GER;Schlesien
 GER;Wettin
 GER;Wittelsbach
-GER;Wˆrth
-GER;L¸tzow
+GER;W√∂rth
+GER;L√ºtzow
 GER;Freya
 GER;Friedrich Karl
 GER;Yorck
 GER;Nienburg
 GER;Stade
-GER;Neum¸nster
+GER;Neum√ºnster
 GER;Neuruppin
 ENG;Arran
 ENG;MacDonald
@@ -1188,7 +1187,7 @@ GER;Salzgitter
 GER;Wernigerode
 GER;Aller
 GER;Kassel
-GER;M¸nden
+GER;M√ºnden
 GER;Arnsberg
 GER;Hamm
 GER;Lippstadt
@@ -1202,61 +1201,11 @@ GER;Augsburg
 GER;Starnberg
 GER;Regensburg
 GER;Staubing
-GER;M¸hldorf
+GER;M√ºhldorf
 GER;Zwiesel
 GER;Ansbach
 GER;Bayreuth
 GER;Weiden
-ITA;Potenza
-ITA;Bari
-ITA;Tarento
-ITA;Cosenza
-ITA;Reggio
-ITA;Benevento
-ITA;Caserta
-ITA;Foggia
-ITA;Caltanisetta
-ITA;Pescara
-ITA;Avezzano
-ITA;Orbetello
-ITA;Terni
-ITA;Gaete
-ITA;Ancona
-ITA;Rimini
-ITA;Pesaro
-ITA;Prato
-ITA;Firenze
-ITA;Medicis
-ITA;Arezzo
-ITA;Bologna
-ITA;Modena
-ITA;San Marino
-ITA;Macerata
-ITA;Barletta
-ITA;Campobasso
-ITA;Asco
-ITA;Forli
-ITA;Asti
-ITA;Pinerolo
-ITA;Ivrea
-ITA;Sesia
-ITA;Rapallo
-ITA;Savona
-ITA;Cosme
-ITA;Pisa
-ITA;Carrare
-ITA;Placentia
-ITA;Bergamo
-ITA;Pavia
-ITA;Ticino
-ITA;Vercelli
-ITA;Fossano
-ITA;Varese
-ITA;Garda
-ITA;Maggiore
-ITA;Sienna
-ITA;Cremona
-ITA;Liguria
 DEN;Tonder
 DEN;Schleswig
 DEN;Holstein
@@ -1288,8 +1237,8 @@ JAP;Shinden
 JAP;Hondo
 JAP;Katori
 REB;Rebel
-POL;Wiúniowiecki 
-POL;OstrorÛg 
+POL;Wi¬úniowiecki 
+POL;Ostror√≥g 
 POL;Krasinski 
 POL;Kalinowski 
 POL;Lubomirski 
@@ -1297,39 +1246,39 @@ POL;Potocki
 POL;Sahajdaczny 
 POL;Houwaldt 
 POL;Malski 
-POL;Oleúnicki  
+POL;Ole¬únicki  
 POL;Lisowski 
 POL;Wyhowski 
 POL;Wielopolski 
-POL;Struú 
+POL;Stru¬ú 
 POL;Dunin 
 POL;Farensbach 
-POL;LanckoroÒski 
-POL;LeszczyÒski 
+POL;Lanckoro√±ski 
+POL;Leszczy√±ski 
 POL;Siemienowicz 
 POL;Sulkowski 
 POL;Kazanowski 
 POL;Getkant 
 POL;Korycki 
-POL;PiaseczyÒski 
-POL;ZaÊwilichowski 
+POL;Piaseczy√±ski 
+POL;Za√¶wilichowski 
 POL;Mielecki 
-POL;MatczyÒski 
+POL;Matczy√±ski 
 POL;Zborowski 
 POL;Grodzicki 
 POL;Stadnicki 
 POL;Fredro 
 POL;Mniszech 
-POL;BidziÒski 
+POL;Bidzi√±ski 
 POL;Kmita 
 POL;Przyjemski 
 POL;Opacki 
 POL;Zbaraski 
 POL;Lacki 
 POL;Sieniawski 
-POL;GÛrka 
-POL;SiciÒski 
-POL;RytwiaÒski 
+POL;G√≥rka 
+POL;Sici√±ski 
+POL;Rytwia√±ski 
 POL;Firlej 
 POL;Pampowski 
 POL;Herburt 
@@ -1396,7 +1345,7 @@ BEL;Cooreman
 BEL;Theunis
 BEL;Wiart
 BEL;Poullet
-BEL;LefËvre
+BEL;Lef√®vre
 BEL;Hendrickx
 BEL;Ceulemans
 BEL;Geerts
@@ -1505,12 +1454,12 @@ USA;Hay
 USA;Grant
 USA;Ford
 IRE;Kelly
-IRE;O¥Neill
+IRE;O¬¥Neill
 IRE;Campbell
-IRE;O¥Reilly
+IRE;O¬¥Reilly
 IRE;Fitzgerald
 IRE;Duffy
-IRE;O¥Shea
+IRE;O¬¥Shea
 IRE;Murphy
 IRE;Doyle
 IRE;McCarthy
@@ -1607,7 +1556,7 @@ YUG;Marinac
 YUG;Magin
 YUG;Bogdanovic
 YUG;Stanojevic
-YUG;Anelkovic
+YUG;An√∞elkovic
 YUG;Spasic
 YUG;Aligrudic
 YUG;Bogetic
@@ -1617,16 +1566,16 @@ YUG;Ilic
 YUG;Mojovic
 YUG;Petrovic
 YUG;Stanicic
-YUG;Draökic
+YUG;Dra¬ökic
 YUG;Perovic
-YUG;äurbatovic
+YUG;¬äurbatovic
 YUG;Perunicic
 YUG;Jocic
 YUG;Stojcevic
 YUG;Hrustanovic
 YUG;Brdarevic
-YUG;Tiöma
-YUG;–urovic
+YUG;Ti¬öma
+YUG;√êurovic
 YUG;Djindjic
 YUG;Kasa
 YUG;Korac
@@ -1656,7 +1605,7 @@ ROM;Abraham
 ROM;Aurescu
 ROM;Barbulescu
 ROM;Berechet
-ROM;Br‚nzas
+ROM;Br√¢nzas
 ROM;Catrinciuc
 ROM;Colteanu
 ROM;Craciun
@@ -1721,7 +1670,7 @@ BUL;Kovachev
 BUL;Kalchev
 BUL;Lalev
 LAT;Kristovskis 
-LAT;Berzinö
+LAT;Berzin¬ö
 LAT;Vigerte
 LAT;Strazdina
 LAT;Belmanis
@@ -1741,20 +1690,20 @@ LAT;Kobardo
 HUN;Czoch
 HUN;Czottner
 HUN;Fichtinger
-HUN;Istv·n
+HUN;Istv√°n
 HUN;Jeno
 HUN;Koblinger
 HUN;Lux
-HUN;L·szlÛ
+HUN;L√°szl√≥
 HUN;Matolcsy
-HUN;MiklÛs
-HUN;PÈter
-HUN;RÛnaky
+HUN;Mikl√≥s
+HUN;P√©ter
+HUN;R√≥naky
 HUN;Szonyi
-HUN;TÛth
-HUN;Vˆrˆss
-HUN;…lo
-HUN;‹rˆgdi
+HUN;T√≥th
+HUN;V√∂r√∂ss
+HUN;√âlo
+HUN;√úr√∂gdi
 HUN;Attila 
 EST;Kallas
 EST;Rand
@@ -1762,9 +1711,9 @@ EST;Rask
 EST;Mikser
 EST;Kranich
 EST;Kivi
-EST;Tınisson
+EST;T√µnisson
 EST;Marrandi
-EST;’unapuu
+EST;√ïunapuu
 EST;Seppik
 EST;Oviir
 EST;Ojuland
